@@ -1,0 +1,7 @@
+dict={
+    "A":"Apple",
+    "B":"Ball",
+    "C":"Cat",
+    "D":"Dog",
+    "E":"Elephant"
+}

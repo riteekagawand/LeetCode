@@ -1,0 +1,5 @@
+tuple = ("C","D","A","A","B","A","D","C","A","A","D")
+myList = list(tuple)
+print(myList)
+myList.sort()
+print(myList)
