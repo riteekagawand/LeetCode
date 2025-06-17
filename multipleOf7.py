@@ -1,0 +1,6 @@
+a =int(input("Enter a number: "))
+
+if(a%7==0 ):
+    print("Number is a multiple of 7")
+else:
+    print("Not a multiple of 7")
