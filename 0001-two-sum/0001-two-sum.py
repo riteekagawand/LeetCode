@@ -1,57 +1,10 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i]+nums[j] == target:
-                    return [i,j]
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        premap={}
+        for i,n in enumerate(nums):
+            diff = target - n
+            if diff in premap:
+                return [premap[diff],i]
+            premap[n]=i
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    #    for i in range (len(nums)):
-    #     j=i+1
-    #     for j in range(i+1, len(nums)):
-    #         if nums[i] + nums[j] == target:
-    #             return [i,j]
-
-    #     """
-    #     :type nums: List[int]
-    #     :type target: int
-    #     :rtype: List[int]
-    #     """
-
-
-
-
-    #      # for i in range(len(nums)):
-    #     #     j = i+1
-    #     #     for j in range(i+1, len(nums)):
-    #     #         if nums[i] + nums[j] == target:
-    #     #             return [i,j]
-        
+        return
