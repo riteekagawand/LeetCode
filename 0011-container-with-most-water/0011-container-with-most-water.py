@@ -5,9 +5,7 @@ class Solution:
         maxarea=0
         # h = max(left,right)
         while left < right:
-            width = right - left
-            high = min(height[left],height[right])
-            area = width * high
+            area=(right-left) * min(height[left],height[right])
             maxarea = max(area,maxarea)
             if height[left] > height[right]:
                 right-=1   
