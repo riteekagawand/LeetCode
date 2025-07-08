@@ -6,6 +6,6 @@ class Solution:
         for num in nums2:
             if counts[num] > 0:
                 result.append(num)
-                counts[num] -= 1  # Decrease count after using it
+                counts[num] -= 1 
 
         return result
