@@ -1,18 +1,10 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
-        output = {}
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        result ={}
         for i in strs:
             word = "".join(sorted(i))
-            if word in output:
-                output[word].append(i)
+            if word in result:
+                result[word].append(i)
             else:
-                output[word] = [i]
-            
-        return list(output.values())
-
-        
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
-        
+                result[word]=[i]
+        return list(result.values())
