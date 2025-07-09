@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/riteekagawand/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/riteekagawand/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/riteekagawand/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/riteekagawand/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/riteekagawand/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/riteekagawand/LeetCode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/riteekagawand/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/riteekagawand/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
