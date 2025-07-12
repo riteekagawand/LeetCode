@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/riteekagawand/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/riteekagawand/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/riteekagawand/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/riteekagawand/LeetCode/tree/master/0739-daily-temperatures) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/riteekagawand/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/riteekagawand/LeetCode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/riteekagawand/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/riteekagawand/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/riteekagawand/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/riteekagawand/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
