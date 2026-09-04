@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/riteekagawand/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/riteekagawand/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/riteekagawand/LeetCode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/riteekagawand/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/riteekagawand/LeetCode/tree/master/0792-binary-search) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/riteekagawand/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/riteekagawand/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/riteekagawand/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riteekagawand/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/riteekagawand/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/riteekagawand/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [2742-painting-the-walls](https://github.com/riteekagawand/LeetCode/tree/master/2742-painting-the-walls) |
 ## Divide and Conquer
 |  |
